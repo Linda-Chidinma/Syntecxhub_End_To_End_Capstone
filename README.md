@@ -45,5 +45,3 @@ Visual analysis and summary insights
 - Jupyter Notebook
 
 This project was completed as part of the Syntecxhub Data Analytics Internship.
-If you want, next we polish your LinkedIn post so it aligns perfectly with this repo.
-
